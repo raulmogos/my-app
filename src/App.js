@@ -10,7 +10,7 @@ function App() {
           Raul Nicu Mogos
         </div>
         <div>
-          <a href="https://github.com/raulmogos" > github </a>
+          <a href="https://github.com/raulmogos" style={{ color: "white" }}> github </a>
         </div>
       </header>
     </div>
