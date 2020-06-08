@@ -2,6 +2,12 @@
   text-align: center;
 }
 
+.eu {
+  border-radius: 20%;
+  width: 190px;
+  height: 260px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
